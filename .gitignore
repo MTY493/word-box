@@ -1,0 +1,8 @@
+# 词典原始数据（体积大，不入库）
+tools/en_US.txt
+tools/ipa_map.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
